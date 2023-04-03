@@ -1,1 +1,1 @@
-git
+[![Build status](https://ci.appveyor.com/api/projects/status/1mc8679v1g191gt7/branch/master?svg=true)](https://ci.appveyor.com/project/Nyrik1992/postmanecho/branch/master)
